@@ -44,7 +44,7 @@ I have tested this using [Docker](https://docker.com) and [Podman](https://podma
     - You should see a populated grafana dashboard!
     - Sometimes you will need to tweak the time period at the beginning for values to populate.  I usually try "Last 30 minutes"
 ## Sources
-MongoDB on [DockerHub](https://hub.docker.com/_/mongo)
-[MongoDB Exporter](https://github.com/percona/mongodb_exporter/) 
-[MongoDB Exporter commands](https://forums.percona.com/t/prometheus-mongodb-exporter/16447)
+- MongoDB on [DockerHub](https://hub.docker.com/_/mongo)
+- [MongoDB Exporter](https://github.com/percona/mongodb_exporter/) 
+- [MongoDB Exporter commands](https://forums.percona.com/t/prometheus-mongodb-exporter/16447)
 
